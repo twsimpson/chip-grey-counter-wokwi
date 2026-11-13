@@ -21,7 +21,7 @@ To use this chip in your project, include it as a dependency in your `diagram.js
 
 ```json
   "dependencies": {
-    "chip-inverter": "github:twsimpson/chip-template-wokwi@1.0.0"
+    "chip-inverter": "github:twsimpson/chip-grey-counter-wokwi@1.0.0"
   }
 ```
 
@@ -30,7 +30,7 @@ Then, add the chip to your circuit by adding a `chip-template` item to the `part
 ```json
   "parts": {
     ...,
-    { "type": "chip-template", "id": "chip1" }
+    { "type": "chip-grey-counter", "id": "chip1" }
   },
 ```
 
