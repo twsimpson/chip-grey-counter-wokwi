@@ -1,6 +1,6 @@
-# Inverter Chip example
+# Gray Counter Chip example
 
-Example of a basic custom chip for [Wokwi](https://wokwi.com/).
+Example of a custom chip for [Wokwi](https://wokwi.com/).
 
 The actual source code for the chip lives in [src/main.c](src/main.c), and the pins are described in [chip.json](chip.json).
 
